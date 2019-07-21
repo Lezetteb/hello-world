@@ -1,2 +1,3 @@
 # hello-world
-getting started
+getting started.
+I'm a student learning about web development.
